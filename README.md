@@ -1,2 +1,3 @@
 # obsidian-ylct-zh
-My Obsidian plugin translations (created by obsidian-i18n)
+
+雨落草听的obs插件汉化仓库

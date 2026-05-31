@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "_6ncLYmXymKEAugdxTP5_rlZ_339eO_5",
+        "plugin": "simple-columns",
+        "language": "zh-cn",
+        "version": "1.0.8",
+        "supported_versions": "1.0.8",
+        "title": "Simple Columns",
+        "description": "Simple Columns Localization & Tweaks",
+        "hash": "6a889ec86a889ec86a889ec86a889ec8",
+        "created_at": "2026-05-31T16:08:59.410Z",
+        "updated_at": "2026-05-31T16:08:59.410Z",
+        "type": "plugin"
+    }
+]
